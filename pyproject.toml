@@ -1,10 +1,9 @@
 [project]
-name = "interface"
+name = "My_apps"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "streamlit>=1.60.0",
-    "streamlit-calendar>=1.4.0",
 ]
